@@ -4,7 +4,18 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("Hello Dhana! welcome to LaunchCode")
+a = 6
+console.log(a)
+c =2 + 3;
+console.log(c)
+console.log("JavaScript")
+console.log("FullStack")
+message1 = "My favorite car is:"
+message2 = "Toyota RAV4"
+console.log(message1 , message2)
+message3 = "printing string in \"quotation marks\" using java script"
+console.log(message3)
 
 /*  
 Next, PLAY! 
